@@ -5,7 +5,7 @@ scriptExtension.importPreset("RuleSimple");
 
 var sRule = new SimpleRule() {
     execute: function( module, input) {
-        print("This is a 'hello world!' from a Javascript rule.");
+        print("Hello World!' from a Javascript rule.");
     }
 };
 
